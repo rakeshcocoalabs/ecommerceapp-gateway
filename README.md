@@ -1,2 +1,1 @@
-# ecommerceapp-gateway
-a generic e commerce app
+# Ecommerce-app-gateway
