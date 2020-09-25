@@ -40,7 +40,12 @@ module.exports = {
 		{
 			path:"review",
 			port:"4010"
+		},
+		{
+			path:"feedback",
+			port:"4011"
 		}
+
 
 
 	]
