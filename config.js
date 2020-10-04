@@ -46,11 +46,13 @@ module.exports = {
 			port:"4011"
 		},
 		{
-			path:"dahsBoardCategory",
+			path:"cart",
+			port:"4012"
+		},
+		{
+			path:"dashBoardCategory",
 			port:"4021"
 		}
-
-
 
 	]
 
