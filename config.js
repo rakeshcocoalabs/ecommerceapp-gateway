@@ -50,8 +50,12 @@ module.exports = {
 			port:"4012"
 		},
 		{
-			path:"dashBoardCategory",
+			path:"adminCategory",
 			port:"4021"
+		},
+		{
+			path:"adminProducts",
+			port:"4022"
 		}
 
 	]
