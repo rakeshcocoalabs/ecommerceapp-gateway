@@ -64,6 +64,10 @@ module.exports = {
 		{
 			path:"appDeliveryPartner",
 			port:"4024"
+		},
+		{
+			path:"adminOrder",
+			port:"4025"
 		}
 
 	]
